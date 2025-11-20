@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is an educational RISC-V core.
+This tapeout contains the bare minimum: an assembler coded *blinking* LED
+(In fact it counts up and displays the value on the 7-segment display).
 
 ## How to test
 
-Explain how to use your project
+Just let it run and see the 7-segment display counting up.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
