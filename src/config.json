@@ -53,6 +53,8 @@
   "//": "Absolute die size",
   "FP_SIZING": "absolute",
 
+  "DRT_ANTENNA_REPAIR_ITERS": 1,
+
   "GRT_ALLOW_CONGESTION": 1,
 
   "FP_IO_HLENGTH": 2,
